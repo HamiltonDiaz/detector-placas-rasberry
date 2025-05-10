@@ -11,7 +11,7 @@ Sistema embebido para Raspberry Pi que detecta y reconoce placas vehiculares usa
 - Configuración flexible mediante variables de entorno.
 
 ## Estructura del Proyecto
-- `plate_detector.py`: Archivo de ejecución princiapl.
+- `plate_detector.py`: Archivo de ejecución principal.
 - `plate_results.txt`: Se utiliza para procesar las imagenes y detectar los textos.
 - `cropped_plates/`: Carpeta creada dentro del código y se utiliza para almacenar las placas recortadas.
 - `plate_results.txt`: Archivo donde se guardan los resultados del OCR
