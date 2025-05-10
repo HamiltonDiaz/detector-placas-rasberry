@@ -1,0 +1,58 @@
+plate_0.jpg: 
+plate_1.jpg: 
+plate_2.jpg: 
+plate_3.jpg: 
+plate_4.jpg: DEI14
+plate_5.jpg: D0I1
+plate_6.jpg: DE11
+plate_7.jpg: DE11
+plate_8.jpg: DE0114
+plate_9.jpg: D0114
+plate_0.jpg: IPD153
+plate_1.jpg: 
+plate_10.jpg: 
+plate_11.jpg: 
+plate_12.jpg: 
+plate_13.jpg: P
+plate_14.jpg: IPD15
+plate_15.jpg: 
+plate_16.jpg: 
+plate_17.jpg: 4
+plate_2.jpg: 3
+plate_3.jpg: 
+plate_4.jpg: 
+plate_5.jpg: 
+plate_6.jpg: 
+plate_7.jpg: 
+plate_8.jpg: 
+plate_9.jpg: 
+plate_15.jpg: ID1
+plate_16.jpg: I5
+plate_17.jpg: 
+plate_18.jpg: 
+plate_19.jpg: IP
+plate_20.jpg: IPD153
+plate_21.jpg: IPD153
+plate_22.jpg: IPD153
+plate_23.jpg: IPD153
+plate_24.jpg: IPD153
+plate_25.jpg: IPD153
+plate_26.jpg: IPD153
+plate_27.jpg: IPD153
+plate_28.jpg: IPD153
+plate_29.jpg: IPD153
+plate_30.jpg: IPD153
+plate_31.jpg: IPD153
+plate_32.jpg: IPD153
+plate_33.jpg: IPD153
+plate_34.jpg: IPD153
+plate_35.jpg: IPD153
+plate_36.jpg: IPD153
+plate_37.jpg: IPD153
+plate_38.jpg: IPD153
+plate_39.jpg: IPD153
+plate_40.jpg: IPD153
+plate_41.jpg: IPD153
+plate_42.jpg: IPD153
+plate_43.jpg: ID5
+plate_44.jpg: ID5
